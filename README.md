@@ -18,7 +18,7 @@ Conformation_motion_prediction_(based_on_AFF2024).7z
 │  │   The  method used is the HF-site masking from AFF2024.  
 │  │
 │  │     
-│  ├── MSA.a3m  #Sequence alignment file
+│  ├── MSA.a3m  #Sequence alignment file.
 │  │
 │  ├── natbox.npy   #Local energy matrix of Rb02G0001032.
 │  │

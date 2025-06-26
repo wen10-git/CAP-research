@@ -6,7 +6,7 @@ Files:
 ```
 
 
-Structures.7z #Raw data file for #CAPs three-dimensional structures.
+Structures.7z #Raw data file for CAPs three-dimensional structures.
 
 Conformation_motion_prediction_(based_on_AFF2024).7z
 │  │   #Conformation motion prediction algorithm AFF2024(https://github.com/Gxy-with-luv/AFF2024/blob/main/Walkthrough.ipynb)

@@ -1,3 +1,32 @@
 # CAP-research
 
 Here is the raw data and supplementary materials related to our recent CAP research.
+
+Files:
+
+`
+Structures.7z #Raw data file for #CAPs three-dimensional structures.
+
+Conformation_motion_prediction_(based_on_AFF2024).7z  #Conformation motion prediction algorithm AFF2024 (https://github.com/Gxy-with-luv/AFF2024/blob/main/Walkthrough.ipynb) based on AlphaFold2. We modified the script to adapt it to CAPs. The                                                        method used is the HF-site masking from AFF2024.
+
+Conformation_motion_prediction_(based_on_AFF2024)/CAP-HFsites_masking_predict_90.ipynb  #Modified HF-site masking methods pipeline.
+
+Conformation_motion_prediction_(based_on_AFF2024)/Predicted/  # #Predicted results of conformational motion after HF-site masking.
+
+
+Conformation_motion_prediction_(modified).7z  #The results of predicting the conformational motion of three CAP genes through our modified pipeline.
+
+FrustrationData&Rosetta-energy/   # Raw data from Rosetta and Frustratometer calculations.
+
+FrustrationData.7z #The frustration information of CAP proteins in rhododendrons, including the density fraction of highly frustrated contacts surrounding the residues. *configurational_5adens can be viewed using Excel.
+
+FrustrationVisualization.7z  #Visualization files for the frustration networks of the local energy of CAPs in protein structures. The visualization of frustration networks can be achieved by inputting the *.pml file into Pymol.
+
+Rosetta-energy.7z  #Raw file for Rosetta energy calculations.
+
+*.xml  # Auxiliary files for Rosetta scripts to calculate protein energy.
+
+*.log  # Rosetta scripts calculation results file for protein energy. *.log can be viewed using Excel.
+
+
+`

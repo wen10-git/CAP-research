@@ -1,6 +1,10 @@
 # CAP-research
 
-Here is the raw data and supplementary materials related to our recent CAP research.
+Here is the raw data and supplementary materials related to our recent CAP research. Related papers:
+
+Pan-genome and energy frustration investigation of Ca2+-ATPases in rhododendrons reveals their conformational motions, environment-related differential evolution, and expression patterns.
+
+
 
 Files:
 ```

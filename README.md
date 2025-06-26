@@ -24,7 +24,7 @@ Conformation_motion_prediction_(based_on_AFF2024).7z
 │  └── Predicted/ #Predicted results of conformational motion after HF-site masking. 
 
 Conformation_motion_prediction_(modified).7z
-#The results of predicting the conformational motion of three CAP genes through our modified pipeline.
+#The raw results of predicting the conformational motion of three CAP genes through our modified pipeline.
 
 FrustrationData&Rosetta-energy/   # Raw data from Rosetta and Frustratometer calculations.
 │  │
